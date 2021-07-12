@@ -1,0 +1,19 @@
+/*
+Theme Name:     ITALIAN_PIZZA-child
+Theme URI:      
+Description:    ITALIAN_PIZZA child theme.
+Author:         VIJAY
+Author URI:     
+Template:       ITALIAN_PIZZA
+Version:        0.1.0
+*/
+
+/*----------------------------------------------------------------Footer-------------------------------------------------------------*/
+
+.newsletter {
+    display: flex;
+}
+input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+    background: transparent;
+    padding: 8px 47px;
+}
